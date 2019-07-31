@@ -1,4 +1,4 @@
-# We create the below db_config.py Python script under user_crud to setup the MySQL database configurations for connecting to database. 
+# Create the below db_config.py Python script under user_crud to setup the MySQL database configurations for connecting to database. 
 # We need to configure database connection with flask module and that’s why we have imported app module and setup the MySQL configuration 
 # with flask module.
 
